@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Thassiane lima
 
 **`Desenvolvedora FullStack`**
 
