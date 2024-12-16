@@ -42,3 +42,9 @@
 
 </p>
 
+![Snake animation](https://github.com/Thassianelima/Thassianelima/blob/ouput/github-contribution-gid-snake.svg)
+
+[![readme](https://github-readme-stats.verce1.app/api/pin?username=Thassianelima&repo=Thassianelima&theme=react).](https://github.com/Thassianelima/Thassianelima)
+
+
+
