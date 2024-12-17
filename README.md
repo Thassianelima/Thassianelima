@@ -82,6 +82,12 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thassianelima}/count.svg" /></p> 
 <br></div>
 
+<p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thassiane lima&theme=radical" />
+</p>
+
+<br/>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b51b8b&height=120&section=footer"/>
 
 
