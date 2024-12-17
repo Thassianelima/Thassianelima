@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D98FB2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thassiane+Lima;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
+<img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
 
 
 <div style="display: inline_block"><br>
