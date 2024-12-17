@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&colorA277B2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b51b8b&height=120&section=header&text=Thassiane+Lima&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D98FB2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thassiane+Lima;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
@@ -24,9 +24,10 @@
 <div> 
 
   <a href="https://www.instagram.com/thassiiiane/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "Thasiane2000@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thassianelima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+<a href = "thasiane2000@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
+<br/><br/>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Thassianelima&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -70,7 +71,7 @@
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thassianelima&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thassianelima&bg_color=A379C9&color=000000&line=07e9a5&point=FCDDF2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -81,6 +82,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thassianelima}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A277B2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b51b8b&height=120&section=footer"/>
 
 
