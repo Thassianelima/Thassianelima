@@ -11,7 +11,7 @@
 
 <img align="center" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=400px alt="Unicorn" src="https://github.com/mari4souza/mari4souza/blob/main/src/study.gif" />
 
 
 
