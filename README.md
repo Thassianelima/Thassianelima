@@ -13,8 +13,25 @@
 <!--  -->
 <img align="right" width=400px alt="Unicorn" src="https://github.com/mari4souza/mari4souza/blob/main/src/study.gif" />
 
+</div>
+  <a href="https://www.instagram.com/thassiiiane/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thassianelima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "thasiane2000@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
+</p>
 
 
+  
+  ##
+ 
+
+
+<br/><br/>
+<br/><br/>
+
+<p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thassiane lima&theme=radical" />
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,42 +42,23 @@
   <img align="center" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 </div>
   
-  ##
- 
-<div> 
 
-  <a href="https://www.instagram.com/thassiiiane/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thassianelima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "thasiane2000@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
-</p>
 
-<br/><br/>
+### 📊 Estatísticas
+
+<p align="center">
+<img 
+      align="center" 
+      alt="GitHub Stats" 
+      height="150" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thassianelima&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  /> </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Thassianelima&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-</div>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Thassianelima&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thassianelima&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
 </p>
 
@@ -90,9 +88,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thassianelima}/count.svg" /></p> 
 <br></div>
 
-<p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thassiane lima&theme=radical" />
-</p>
 
 <br/>
 
