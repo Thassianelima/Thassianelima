@@ -47,19 +47,23 @@
 
 ### 📊 Estatísticas
 
+
+
 <p align="center">
 <img 
       align="center" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thassianelima&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thassianelima&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   /> </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Thassianelima&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Thassianelima&show_icons=true&theme=dracula"
+ /></p>
 
 </p>
 
