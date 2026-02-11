@@ -22,17 +22,6 @@ I aim to connect technology with efficiency, data, and structured problem-solvin
 
 ---
 
-## 🚀 Tech Stack
-
-<p align="center">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-</p>
-
----
-
 ## 📊 Technical Focus
 
 ✔ Web Development (HTML, CSS, JavaScript)  
@@ -50,18 +39,17 @@ I aim to connect technology with efficiency, data, and structured problem-solvin
 - SLA & Performance Monitoring  
 - Customer Experience Strategy  
 - Analytical Thinking  
-- Clear Communication  
-
+- Clear Communication
 ---
-
-## 📊 GitHub Analytics
+  ## 🚀 Tech Stack
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Thassianelima&show_icons=true&theme=default&title_color=CC0000&icon_color=0A66C2&text_color=000000&bg_color=ffffff"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thassianelima&layout=compact&title_color=CC0000&text_color=000000&bg_color=ffffff"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 </p>
 
----
 
 ## 🔥 Activity Graph
 
